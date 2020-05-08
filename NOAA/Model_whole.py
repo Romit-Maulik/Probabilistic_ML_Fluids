@@ -70,6 +70,8 @@ for i in tqdm(range(len(sst[:,0]))):
 
 sst1 = np.nan_to_num(sst)
 
+#location can be decided with np.rand although it is omitted here
+
 X_train = np.zeros((1040,10))
 y_train = np.zeros((1040,180*360))
 X_train[:,0] = sst2[:1040,120,90]

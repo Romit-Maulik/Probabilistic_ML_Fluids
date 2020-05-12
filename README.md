@@ -1,5 +1,5 @@
 # Probabilistic_ML_Fluids
-Source code for "Probabilistic neural networks for fluid flow model-order reduction and data recovery"
+Source code for "Probabilistic neural networks for fluid flow model-order reduction and data recovery". See Arxiv document [here](http://arxiv.org/abs/2005.04271).
 
 Authors: Romit Maulik, Kai Fukami, Nesar Ramachandra, Koji Fukagata, Kunihiko Taira
 
